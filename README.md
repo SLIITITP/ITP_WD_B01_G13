@@ -11,4 +11,6 @@
 ### Member 7 - IT21386268 - JAYARATHNA P.G.L.N (IT21386268)
 ### Member 8 - IT21208980 - DE SILVA K.H.P.N (IT21208980)
 
+#### Technologies used - MERN Stack
+
 
