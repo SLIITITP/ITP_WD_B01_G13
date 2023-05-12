@@ -1,4 +1,9 @@
-# ITP_WD_B01_G13
+# Project Name - Tourism Management System
 ## Batch - IT.WD.Y2.S2.01.02
 ## Group - IPT.WD.B01.13
-### Group Leader
+### Group Leader - IT21181610 - WIJESINGHE K.G.k (IT21181610)
+### Member 2 - IT21227240 - NIDHARA E.G.T (IT21227240)
+### Member 3 - IT21173936 - KODITHUWAKKU K.G.K.M.J (IT21173936)
+### Member 4 - IT21226700 - PREMARATHNA A.P.S (IT21226700)
+### Member 5 - IT21186288 - MAHANAMA K.T.D (IT21186288)
+
