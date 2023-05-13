@@ -11,7 +11,7 @@
 ### Member 7 - IT21386268 - JAYARATHNA P.G.L.N (IT21386268)
 ### Member 8 - IT21208980 - DE SILVA K.H.P.N (IT21208980)
 
-#### Technologies used - MERN Stack
+#### Technologies used - MERN Stack.
 
 # Link to GitHub Repo - https://github.com/SLIITITP/ITP_WD_B01_G13
 
